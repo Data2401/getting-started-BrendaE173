@@ -8,3 +8,8 @@ y <- x^2
 plot(x,y, type = "b", main = "Squared integers")
 plot(x,x^3, type = "b", main = "Squared integers")
 
+
+#plot for x: 1 to 10
+x<- 1:10
+plot(x,x^2, type = "b", main = "Squared integers")
+
