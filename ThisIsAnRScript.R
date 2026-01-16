@@ -13,3 +13,7 @@ plot(x,x^3, type = "b", main = "Squared integers")
 x<- 1:10
 plot(x,x^2, type = "b", main = "Squared integers")
 
+
+#Re-did github connection on new machine, lets see if committing and push are successful
+x<-1:5
+plot(x,1/x, type = "b", main = "Squared integers")
